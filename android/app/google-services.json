@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "485823908098",
+    "project_id": "footware-6a1c6",
+    "storage_bucket": "footware-6a1c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485823908098:android:d15e30ad41a60ad27e1a1b",
+        "android_client_info": {
+          "package_name": "com.example.footware"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87dD3fcqwxgc8NZ5EaMNwAAZpgrVAf80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485823908098:android:3e1fc260f15ef2787e1a1b",
+        "android_client_info": {
+          "package_name": "com.example.footware_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB87dD3fcqwxgc8NZ5EaMNwAAZpgrVAf80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
